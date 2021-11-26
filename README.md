@@ -1,5 +1,6 @@
-bariskayhan93/README.md
-tools
+<a href="https://github.com/bariskayhan93/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bariskayhan93&repo=github-readme-stats" />
+</a>
 
 🌱 I’m currently developing my Fullstack Bird Tracking App
 
