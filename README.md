@@ -21,6 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bariskayhan93&show_icons=true&locale=en&layout=compact&theme=radical" alt="bariskayhan93" /></p>
 
+<br/>
 
 Summary;
 
