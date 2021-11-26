@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bariskayhan53@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jjjpne0bjlyhLRpBQFd-pY-jmMmUBHN4/view?usp=sharing" target="blank"><img align="center" src="https://www.freeiconspng.com/img/19642" alt="www.linkedin.com/in/baris-kayhan/" height="30" width="40" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jjjpne0bjlyhLRpBQFd-pY-jmMmUBHN4/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="resume" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
