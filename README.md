@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **bariskayhan53@gmail.com**
 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jjjpne0bjlyhLRpBQFd-pY-jmMmUBHN4/view?usp=sharing" target="blank"><img align="center" src="https://www.freeiconspng.com/img/19642" alt="www.linkedin.com/in/baris-kayhan/" height="30" width="40" /></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baris-kayhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/baris-kayhan/" height="30" width="40" /></a>
