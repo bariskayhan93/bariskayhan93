@@ -21,9 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bariskayhan93&show_icons=true&locale=en&layout=compact&theme=radical" alt="bariskayhan93" /></p>
 
-
-
 <div align="left">
+  <h2></h2>
+  <h2></h2>
   <h2></h2>
   <h3>Summary;</h3>
 <p>
