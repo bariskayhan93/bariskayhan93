@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Bird Tracking App](https://github.com/bariskayhan93/bird-tracking-app)
+- 🔭 I’m currently working on [Bird Tracking App](https://github.com/bariskayhan93/bird-tracking-app)tttt
 
 - 👨‍💻 All of my projects are available at [https://baris-kayhan-portfolio.netlify.app](https://baris-kayhan-portfolio.netlify.app)
 
