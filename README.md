@@ -26,4 +26,4 @@ Focused on delivering scalable applications with modern JavaScript frameworks an
 ## Get in Touch
 
 - [LinkedIn](https://linkedin.com/in/baris-kayhan)
-- [Email](mailto:baris.kayhan@domain.com)
+- [Email](mailto:bariskayhan53@gmail.com)
