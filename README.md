@@ -7,8 +7,8 @@ Focused on delivering scalable applications with modern JavaScript frameworks an
 
 ## Expertise
 
-- **Languages:** JS, TS, SQL, PHP
-- **Frameworks:** Node.js/Express.js, Angular, Vue.js
+- **Languages:** JS, TS, C#, SQL, PHP
+- **Frameworks:** Node.js/Express.js, .Net, Angular, Vue.js
 - **Cloud:** AWS (S3, Lambda, CloudFront)
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, CI/CD
