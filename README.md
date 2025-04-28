@@ -1,25 +1,17 @@
 # Hi I'm Baris
 
 **Full-Stack Developer**  
-Focused on delivering scalable applications with modern JavaScript frameworks and cloud infrastructure.
+Focused on delivering scalable applications with modern frameworks and cloud infrastructure.
 
 ---
 
 ## Expertise
 
 - **Languages:** JS, TS, C#, SQL, PHP
-- **Frameworks:** Node.js/Express.js, .Net, Angular, Vue.js
+- **Frameworks:** Node.js/Express.js, .NET, Angular, Vue.js
 - **Cloud:** AWS (S3, Lambda, CloudFront)
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, CI/CD
-
----
-
-## Current Projects
-
-- Front-end development with Angular and TypeScript.
-- Migrating legacy PHP systems to Node.js.
-- Database optimization and migrations.
 
 ---
 
