@@ -1,6 +1,5 @@
 # Hi I'm Baris
-
-**Full-Stack Developer**  
+  
 Focused on delivering scalable applications with modern frameworks and cloud infrastructure.
 
 ---
